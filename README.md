@@ -1,2 +1,1 @@
-# homework
-Getting to know me
+Lab 1
